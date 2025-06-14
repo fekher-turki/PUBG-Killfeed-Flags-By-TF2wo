@@ -6,11 +6,10 @@ Customize your PUBG killfeed with clear, recognizable country flags!
 
 ## Available Versions
 
-| Version               | Description                                                      | Download Link                                           |
-|-----------------------|------------------------------------------------------------------|---------------------------------------------------------|
-| **Observer**          | Original country flags without numbers                           | [Download Observer (No Numbers)](https://github.com/fekher-turki/PUBG-Killfeed-Flags-By-TF2wo/Observer.zip) |
-| **Observer_Numbered** | Country flags with large team numbers for quick identification  | [Download Observer_Numbered (With Numbers)](https://github.com/fekher-turki/PUBG-Killfeed-Flags-By-TF2wo/Observer_Numbered.zip) |
-
+| Version               | Description                                                      |
+|-----------------------|------------------------------------------------------------------|
+| **Observer**          | Original country flags without numbers                           |
+| **Observer_Numbered** | Country flags with large team numbers for quick identification  |
 ---
 
 ## About
